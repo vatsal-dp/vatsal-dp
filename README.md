@@ -1,6 +1,6 @@
 ### I am Vatsal Patel.
 ### I am a second year student at Ahmedabad University.
-### Willing to try anything new!
+### Learner :)
 
 ### Languages and Tools:
 
