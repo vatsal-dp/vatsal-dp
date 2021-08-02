@@ -1,5 +1,5 @@
 ### I am Vatsal Patel.
-### I am a second year student at Ahmedabad University.
+### I am a second year Computer Science student at Ahmedabad University.
 ### Learner :)
 
 ### Languages and Tools:
