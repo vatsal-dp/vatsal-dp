@@ -1,4 +1,3 @@
-### I am Vatsal Patel.
 ### I am a second year Computer Science student at Ahmedabad University.
 ### Learner :)
 
