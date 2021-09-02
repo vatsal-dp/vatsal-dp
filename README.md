@@ -1,4 +1,4 @@
-### I am a second year Computer Science student at Ahmedabad University.
+### I am a Computer Science Second Year Student.
 ### Learner :)
 
 ### Languages and Tools:
