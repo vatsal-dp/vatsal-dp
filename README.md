@@ -1,5 +1,5 @@
 ### Hi there, I am Vatsal.
-###I am pursuing Computer Science
+### I am pursuing Computer Science
 ### Learner :)
 
 ### Languages and Tools:
