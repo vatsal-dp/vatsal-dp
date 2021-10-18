@@ -1,4 +1,5 @@
-### I am a Computer Science Second Year Student.
+### Hi there, I am Vatsal.
+###I am pursuing Computer Science
 ### Learner :)
 
 ### Languages and Tools:
