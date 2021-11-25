@@ -1,5 +1,5 @@
 
-### Computer Science Student
+## Computer Science Student
 
 ### Languages and Tools:
 
