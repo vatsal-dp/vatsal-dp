@@ -1,6 +1,5 @@
-### Hi there, I am Vatsal.
-### I am pursuing Computer Science
-### Learner :)
+
+### Computer Science Student
 
 ### Languages and Tools:
 
