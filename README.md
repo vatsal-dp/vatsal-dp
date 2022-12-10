@@ -10,6 +10,8 @@ React, Bootstrap, Flutter.
 Node.js, Express.js.
 ### Database
 MySQL, Oracle.
+### Server
+Heroku, Netlify.
 ### IDE
 Vscode, CodeSandbox, Xcode, Atom.
 ### OS and Version Control
