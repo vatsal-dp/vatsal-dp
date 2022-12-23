@@ -8,7 +8,7 @@ React, Bootstrap, Flutter.
 ### Backend
 Node.js, Express.js.
 ### Database
-MySQL, Oracle.
+MySQL, Oracle, Firebase.
 ### Server
 Heroku, Netlify.
 ### IDE
